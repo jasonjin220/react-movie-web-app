@@ -49,6 +49,17 @@
     "eslint-check": "eslint --print-config . | eslint-config-prettier-check",
     "lint:css": "stylelint './src/**/*.js'"
   },
+  "keywords": [
+      "react",
+      "typescript",
+      "redux",
+      "firebase",
+      "styled-components",
+      "jest",
+      "enzyme",
+      "reselect",
+      "formik"
+  ],
   "eslintConfig": {
     "extends": "react-app"
   },
